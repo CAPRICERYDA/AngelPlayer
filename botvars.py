@@ -3,29 +3,7 @@ This file contains static variables and tables for the bot
 '''
 
 ComplimentImgs = [ ]
-CryImgs = [ # TODO: check for duplicates
-    "https://cdn.discordapp.com/attachments/398191639488757770/729414935972413520/image0.gif",
-    "https://cdn.discordapp.com/attachments/398191639488757770/697543758849376399/1.gif",
-    "https://cdn.discordapp.com/attachments/398191639488757770/691347350165127218/10.gif",
-    "https://cdn.discordapp.com/attachments/439593890505424896/697278535265550466/2.gif",
-    "https://cdn.discordapp.com/attachments/439593890505424896/697128451643146410/3.gif",
-    "https://cdn.discordapp.com/attachments/398191639488757770/719920029407379456/4.gif",
-    "https://cdn.discordapp.com/attachments/398191639488757770/697869027380560002/5.gif",
-    "https://cdn.discordapp.com/attachments/439593890505424896/697278120289501264/6.gif",
-    "https://cdn.discordapp.com/attachments/439593890505424896/605127251087982667/7.gif",
-    "https://cdn.discordapp.com/attachments/439593890505424896/697275251775766548/8.gif",
-    "https://cdn.discordapp.com/attachments/398191639488757770/684902273587216586/9.gif",
-    "https://cdn.discordapp.com/attachments/399008549491048448/604384135993098249/1.gif",
-    "https://cdn.discordapp.com/attachments/399008549491048448/692149509165285416/10.gif",
-    "https://cdn.discordapp.com/attachments/399008549491048448/717101452249530458/2.gif",
-    "https://cdn.discordapp.com/attachments/399008549491048448/680768868355932211/3.gif",
-    "https://cdn.discordapp.com/attachments/439593890505424896/612911882596122636/4.gif",
-    "https://cdn.discordapp.com/attachments/399008549491048448/713132567406051467/5.gif",
-    "https://cdn.discordapp.com/attachments/398191639488757770/659817284604395551/6.gif",
-    "https://cdn.discordapp.com/attachments/399008549491048448/680768940632178708/7.gif",
-    "https://cdn.discordapp.com/attachments/399008549491048448/605030678953984000/8.gif",
-    "https://cdn.discordapp.com/attachments/399008549491048448/681524925110157349/9.gif",
-] 
+
 CuddleImgs = [
     "https://cdn.discordapp.com/attachments/398171202306310164/610125802159472670/1.gif",
     "https://cdn.discordapp.com/attachments/439593890505424896/609457347970072589/10.gif",
